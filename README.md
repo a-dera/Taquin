@@ -8,7 +8,7 @@ Réalisation du Jeu de Taquin en langage C
 Pour lancer le programme naviguer dans le repertoire Taquin au niveau de votre terminal.
 
 
- Executez ensuite la commande ``gcc --o main.c  main`` pour compiler le programme [...]
+ Executez ensuite la commande ``gcc main.c –o Taquin`` pour compiler le programme [...]
 
  Executez enfin la commande ``./main.c`` pour lancer le programme [...]
 
