@@ -37,6 +37,6 @@ Lisez la liste des [contributeurs](https://github.com/a-dera/Taquin/contributors
 
 ## License
 
-Ce projet est sous licence ``MIT`` - voir le fichier [LICENSE.md](LICENSE.md) pour plus d'informations.
+Ce projet est sous licence ``MIT`` - voir le fichier [LICENSE.md](LICENSE) pour plus d'informations.
 
 
